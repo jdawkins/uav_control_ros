@@ -1,0 +1,12 @@
+uav_type: CrazyFlie
+max_rp_angle: 0.35
+max_rp_rate: 3.14
+max_yawrate: 3.14
+gains:
+   Kp_z: 0.1
+   Kp_xy: 0.1
+   Kd_Z: 0.0
+   Kd_xy: 0.0
+   Kpsi: 1.0
+   Khov: 0.8
+   Kidle: 0.6
